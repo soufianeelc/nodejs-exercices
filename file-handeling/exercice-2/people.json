@@ -1,0 +1,8 @@
+{
+  "people": [
+    { "name": "John Doe", "age": 25 },
+    { "name": "Jane Smith", "age": 30 },
+    { "name": "Bob Johnson", "age": 35 },
+    { "name": "Mary Brown", "age": 40 }
+  ]
+}
